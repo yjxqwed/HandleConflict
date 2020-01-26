@@ -1,2 +1,2 @@
 # HandleConflict
-A sample for conflict handling
+A sample repo for conflict handling
